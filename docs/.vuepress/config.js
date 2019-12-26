@@ -17,7 +17,7 @@ module.exports = {
     sidebar: [
       {
         title: '2019 年度',
-        path: '/2019 /',
+        path: '/2019/',
         collapsable: false,
         sidebarDepth: 2,
         children: Array(12).fill().map((v, i) => {

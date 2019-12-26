@@ -1,17 +1,16 @@
-# 前端技术月刊 📖
+# 前端技术月刊 📖 2019
 
-聚焦前端，记录过去一个月发现的值得推荐的前端技术栈、文章以及应用，每月28日更新。
+2019 余额已经严重不足，回顾这一年，庆幸自己坚持下来持续学习，保持记录的状态。我整合了2019年
+度所有的技术栈内容，并分类精选。把最值得推荐的内容记录在这个页面上。2020，未来可期。
 
-| 时间 | 序号 |
-| --- | --- |
-| 2019-01 | [第一期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-01.md) |
-| 2019-02 | [第二期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-02.md) |
-| 2019-03 | [第三期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-03.md) |
-| 2019-04 | [第四期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-04.md) |
-| 2019-05 | [第五期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-05.md) |
-| 2019-06 | [第六期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-06.md) |
-| 2019-07 | [第七期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A0%88%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-07.md) |
-| 2019-08 | [第八期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A0%88%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-08.md) |
-| 2019-09 | [第九期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A0%88%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-09.md) |
-| 2019-10 | [第十期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A0%88%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-10.md) |
-| 2019-11 | [第十一期](https://github.com/xiaoluoboding/monthly/blob/master/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A0%88%E6%9C%88%E5%88%8A%20%F0%9F%93%96%202019-11.md) |
+## 📈 趋势报告
+
+## 🔧 工具类
+
+## 可视化
+
+## 设计创意
+
+## 有趣酷站
+
+## 应用推荐
