@@ -1,6 +1,7 @@
 module.exports = {
   title: '前端技术栈月刊',
   description: '聚焦前端，记录过去一个月发现的值得推荐的前端技术栈、文章以及应用，每月28日更新。',
+  base: '/monthly/',
   themeConfig: {
     nav: [
       {
