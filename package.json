@@ -1,0 +1,27 @@
+{
+  "name": "monthly",
+  "version": "1.0.0",
+  "description": "聚焦前端，记录过去一个月发现的值得推荐的前端技术栈、文章以及应用，每月28日更新。",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:deploy": "sh deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoluoboding/monthly.git"
+  },
+  "keywords": [
+    "monthly"
+  ],
+  "author": "xiaoluoboding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoluoboding/monthly/issues"
+  },
+  "homepage": "https://github.com/xiaoluoboding/monthly#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.2.0"
+  }
+}
