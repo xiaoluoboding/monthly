@@ -1,11 +1,11 @@
-const get2019Sidebar = () => {
+const getSidebar = (year, month) => {
   let sidebar = []
-  sidebar = Array(12).fill().map((v, i) => {
+  sidebar = Array(month).fill().map((v, i) => {
     let month = i + 1
     let monthNum = month < 10 ? String(month).padStart(2, '0') : month
-    return `/2019/2019-${monthNum}`
+    return `/${year}/${year}-${monthNum}`
   })
-  sidebar.unshift('/2019/')
+  sidebar.unshift(`/${year}/`)
   return sidebar
 }
 
@@ -19,10 +19,10 @@ module.exports = {
         text: '2019', link: '/2019/',
       },
       {
-        text: '2020', link: '/2020/',
+        text: '2020', link: '/2020/2020-01',
       },
       {
-        text: '🗡️ 利刃', link: '/knivesout/',
+        text: '🗡️ Knives Out', link: '/knivesout/',
       },
       {
         text: 'GitHub', link: 'https://github.com/xiaoluoboding/monthly'
@@ -34,15 +34,28 @@ module.exports = {
         path: '/2019/',
         collapsable: false,
         sidebarDepth: 2,
-        children: get2019Sidebar()
+        children: getSidebar(2019, 12)
       },
       {
         title: '2020 年度',
         path: '/2020/',
         collapsable: false,
-        sidebarDepth: 2
+        sidebarDepth: 2,
+        children: getSidebar(2020, 1)
       },
+      {
+        title: 'Knives Out',
+        path: '/knivesout/',
+        children: [
+          '/knivesout/chrome-plugins',
+          '/knivesout/vscode-plugins',
+          '/knivesout/macos-app'
+        ]
+      }
     ]
+  },
+  markdown: {
+    lineNumbers: true
   },
   plugins: ['@vuepress/back-to-top']
 }

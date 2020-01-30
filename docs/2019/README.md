@@ -1,4 +1,4 @@
-# 📖 年度汇总
+# 📖 2019 年度汇总
 
 ::: tip 📅 2019-12-28
 2019 余额已经严重不足，回顾这一年，庆幸自己坚持下来持续学习，保持记录的状态。我整合了本年度月刊内容，分类精选。把最值得推荐的内容记录在这个页面上。
@@ -28,18 +28,18 @@
 
 | :crystal_ball: 传送门 |
 | :----------------: |
-| [第 01 期](https://xiaoluoboding.github.io/monthly/2019/2019-01.html#%E5%B7%A5%E5%85%B7) |
-| [第 02 期](https://xiaoluoboding.github.io/monthly/2019/2019-02.html#%E5%B7%A5%E5%85%B7) |
-| [第 03 期](https://xiaoluoboding.github.io/monthly/2019/2019-03.html#%E5%B7%A5%E5%85%B7) |
-| [第 04 期](https://xiaoluoboding.github.io/monthly/2019/2019-04.html#%E5%B7%A5%E5%85%B7) |
-| [第 05 期](https://xiaoluoboding.github.io/monthly/2019/2019-05.html#%E5%B7%A5%E5%85%B7) |
-| [第 06 期](https://xiaoluoboding.github.io/monthly/2019/2019-06.html#%E5%B7%A5%E5%85%B7) |
-| [第 07 期](https://xiaoluoboding.github.io/monthly/2019/2019-07.html#%E5%B7%A5%E5%85%B7) |
-| [第 08 期](https://xiaoluoboding.github.io/monthly/2019/2019-08.html#%E5%B7%A5%E5%85%B7) |
-| [第 09 期](https://xiaoluoboding.github.io/monthly/2019/2019-09.html#%E5%B7%A5%E5%85%B7) |
-| [第 10 期](https://xiaoluoboding.github.io/monthly/2019/2019-10.html#%E5%B7%A5%E5%85%B7) |
-| [第 11 期](https://xiaoluoboding.github.io/monthly/2019/2019-11.html#%E5%B7%A5%E5%85%B7) |
-| [第 12 期](https://xiaoluoboding.github.io/monthly/2019/2019-12.html#%E5%B7%A5%E5%85%B7) |
+| [第 01 期](./2019-01.html#%E5%B7%A5%E5%85%B7) |
+| [第 02 期](./2019-02.html#%E5%B7%A5%E5%85%B7) |
+| [第 03 期](./2019-03.html#%E5%B7%A5%E5%85%B7) |
+| [第 04 期](./2019-04.html#%E5%B7%A5%E5%85%B7) |
+| [第 05 期](./2019-05.html#%E5%B7%A5%E5%85%B7) |
+| [第 06 期](./2019-06.html#%E5%B7%A5%E5%85%B7) |
+| [第 07 期](./2019-07.html#%E5%B7%A5%E5%85%B7) |
+| [第 08 期](./2019-08.html#%E5%B7%A5%E5%85%B7) |
+| [第 09 期](./2019-09.html#%E5%B7%A5%E5%85%B7) |
+| [第 10 期](./2019-10.html#%E5%B7%A5%E5%85%B7) |
+| [第 11 期](./2019-11.html#%E5%B7%A5%E5%85%B7) |
+| [第 12 期](./2019-12.html#%E5%B7%A5%E5%85%B7) |
 
 ## 📊 可视化
 
@@ -109,15 +109,15 @@
 
 | 应用 | 平台 | :page_facing_up: 介绍 |
 | :--- | :--- | :--- |
-| [eZip](https://ezip.awehunt.com/) | macOS | 专为 macOS 而设计的压缩软件 |
-| [Carbonize](https://www.dangercove.com/carbonize/) | macOS | Generate gorgeous images from your code snippets. Ready to save or share |
-| [Chrome Themes](https://chrome.google.com/webstore/category/collection/chrome_themes?hl=zh-CN) | Chrome | 14款由 Chrome 团队发布的浏览器主题 |
-| [Notion](https://www.notion.so/) | macOS/iOS | 重新定义了笔记软件，可作为团队写作工具、私人知识库、文档中心、任务管理等等工具使用 |
-| [Moon FM](https://moon.fm/labs) | macOS/iOS | 比较小众的FM桌面版，同时也ios版，界面美观优雅 |
-| [Motrix](https://motrix.app/zh-CN/) | macOS | 一款免费开源的全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源 |
-| [Microsoft To-Do](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?mt=12) | macOS/iOS | 一直在用奇妙清单这款应用，我用它记录了很多整理过的清单、Todo列表。 |
-| [HandBrake](https://handbrake.fr/) | macOS | 小巧精悍的视频转码工具 |
-| [QSpace](https://apps.apple.com/cn/app/qspace/id1469774098?mt=12) | macOS | QSpace 是一款简洁高效的多视图文件管理器。 |
-| [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | macOS | A Mac app wrapper for music.youtube.com |
-| [Sublime Merge](https://www.sublimemerge.com/) | macOS | Sublime Text 厂商出品的 Git 客户端，界面美观，占用内存小。 |
-| [Pomotroid](https://splode.github.io/pomotroid/) | macOS | A simple, configurable and visually pleasing Pomodoro timer. |
+| [eZip](https://ezip.awehunt.com/) | `macOS` | 专为 macOS 而设计的压缩软件 |
+| [Carbonize](https://www.dangercove.com/carbonize/) | `macOS` | Generate gorgeous images from your code snippets. Ready to save or share |
+| [Chrome Themes](https://chrome.google.com/webstore/category/collection/chrome_themes?hl=zh-CN) | `Chrome` | 14款由 Chrome 团队发布的浏览器主题 |
+| [Notion](https://www.notion.so/) | `macOS`/`iOS` | 重新定义了笔记软件，可作为团队写作工具、私人知识库、文档中心、任务管理等等工具使用 |
+| [Moon FM](https://moon.fm/labs) | `macOS`/`iOS` | 比较小众的FM桌面版，同时也ios版，界面美观优雅 |
+| [Motrix](https://motrix.app/zh-CN/) | `macOS` | 一款免费开源的全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源 |
+| [Microsoft To-Do](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?mt=12) | `macOS`/`iOS` | 一直在用奇妙清单这款应用，我用它记录了很多整理过的清单、Todo列表。 |
+| [HandBrake](https://handbrake.fr/) | `macOS` | 小巧精悍的视频转码工具 |
+| [QSpace](https://apps.apple.com/cn/app/qspace/id1469774098?mt=12) | `macOS` | QSpace 是一款简洁高效的多视图文件管理器。 |
+| [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | `macOS` | A Mac app wrapper for music.youtube.com |
+| [Sublime Merge](https://www.sublimemerge.com/) | `macOS` | Sublime Text 厂商出品的 Git 客户端，界面美观，占用内存小。 |`
+| [Pomotroid](https://splode.github.io/pomotroid/) | `macOS` | A simple, configurable and visually pleasing Pomodoro timer. |

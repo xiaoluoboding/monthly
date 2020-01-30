@@ -4,6 +4,7 @@
   "description": "聚焦前端，记录过去一个月发现的值得推荐的前端技术栈、文章以及应用，每月28日更新。",
   "main": "index.js",
   "scripts": {
+    "start": "npm run docs:dev",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "docs:deploy": "sh deploy.sh"
@@ -13,7 +14,11 @@
     "url": "git+https://github.com/xiaoluoboding/monthly.git"
   },
   "keywords": [
-    "monthly"
+    "monthly",
+    "front-end",
+    "tech-stack",
+    "tools",
+    "github"
   ],
   "author": "xiaoluoboding",
   "license": "MIT",
