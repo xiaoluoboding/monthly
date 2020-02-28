@@ -35,6 +35,7 @@
 - PDF Expert
 - 番茄土豆
 - Alfred
+- Itsycal
 
 ## 专注写作
 
@@ -59,18 +60,19 @@
 
 ## 字体
 
+- Operator Mono
 - Fira Code
 - Monaco
 - Menlo
 
 ## 优质开源
 
-* IINA
-* SwitchHosts!
-* Motrix
-* Spectacle
+- IINA
+- SwitchHosts!
+- Motrix
+- Spectacle
 
 ## 优质免费
 
-* eZip
-* 截图
+- eZip
+- 截图

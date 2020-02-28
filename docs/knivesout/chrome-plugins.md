@@ -36,3 +36,10 @@
 * OctoHint
 * OctoLinker
 * Octotree
+
+## 设计师工具
+
+* [Color Tab](https://chrome.google.com/webstore/detail/color-tab/hchlgfaicmddilenlflajnmomalehbom/related)
+
+* [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)
+
