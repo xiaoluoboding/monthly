@@ -3,8 +3,6 @@ title: 🗡️ Knives Out
 lang: zh-CN
 ---
 
-# 🗡️ Knives Out
-
 ![knvies out](/monthly/images/knives-out.jpg)
 
 ::: tip 利刃出鞘

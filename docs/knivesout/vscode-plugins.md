@@ -1,4 +1,4 @@
-#  VSCode Plugins
+# VSCode Plugins
 
 ## 语言
 
