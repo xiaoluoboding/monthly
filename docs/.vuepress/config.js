@@ -40,7 +40,7 @@ module.exports = {
         path: '/2020/',
         collapsable: false,
         sidebarDepth: 2,
-        children: getSidebar(2020, 5  )
+        children: getSidebar(2020, 5)
       },
       {
         title: 'Knives Out',
