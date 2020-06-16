@@ -1,3 +1,5 @@
+const Bookmark = require('./plugins/bookmark/index.js')
+
 const getSidebar = (year, month) => {
   let sidebar = []
   sidebar = Array(month).fill().map((v, i) => {
@@ -56,5 +58,20 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: ['@vuepress/back-to-top']
+  plugins: [
+    ['@vuepress/back-to-top'],
+    [
+      Bookmark,
+      {
+        apify: {
+          userId: 'aBiK4hymWp4K2LiZc',
+          token: 'dhMoBHTwdc6J36aifJ77L9E7x',
+          actId: '8xlX2NQerxiadEAUl'
+        },
+        palette: {
+          titleColor: '#3eaf7c'
+        }
+      }
+    ]
+  ]
 }
