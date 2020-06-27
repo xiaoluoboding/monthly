@@ -121,7 +121,7 @@ export default {
       min-width: 50%;
       order: 1;
       &--box {
-        display: flex;
+        display: -webkit-box;
         align-items: center;
       }
       &__title {
