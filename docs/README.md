@@ -1,6 +1,6 @@
 ---
 home: true
-# heroImage: /logo.jpg
+heroImage: images/banner-x.png
 actionText: 开始探索 →
 actionLink: /2020/2020-06
 features:
@@ -16,5 +16,5 @@ features:
   details: 有趣、有深度的文章
 - title: 应用
   details: 精选 macOS/iOS 应用
-footer: MIT Licensed | Copyright © 2019-present xiaoluoboding
+footer: MIT Licensed | Copyright © 2019-present @xiaoluoboding
 ---
