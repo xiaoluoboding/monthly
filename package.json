@@ -29,5 +29,8 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.2.0",
     "apify-client": "^0.6.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.30"
   }
 }

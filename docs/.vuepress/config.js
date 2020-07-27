@@ -1,4 +1,5 @@
 const Bookmark = require('./plugins/bookmark/index.js')
+const ImageHub = require('./plugins/imagehub/index.js')
 
 const getSidebar = (year, month) => {
   let sidebar = []
@@ -21,7 +22,7 @@ module.exports = {
         text: '2019', link: '/2019/',
       },
       {
-        text: '2020', link: '/2020/2020-06',
+        text: '2020', link: '/2020/2020-07',
       },
       {
         text: '🗡️ Knives Out', link: '/knivesout/',
@@ -42,7 +43,7 @@ module.exports = {
         path: '/2020/',
         collapsable: false,
         sidebarDepth: 2,
-        children: getSidebar(2020, 6)
+        children: getSidebar(2020, 7)
       },
       {
         title: 'Knives Out',
@@ -53,7 +54,8 @@ module.exports = {
           '/knivesout/macos-app'
         ]
       }
-    ]
+    ],
+    imageCDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub@latest/images/'
   },
   markdown: {
     lineNumbers: true
@@ -72,6 +74,9 @@ module.exports = {
           titleColor: '#3eaf7c'
         }
       }
+    ],
+    [
+      ImageHub
     ]
   ]
 }
