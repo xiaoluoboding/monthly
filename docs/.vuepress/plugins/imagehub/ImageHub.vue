@@ -15,9 +15,14 @@ export default {
   },
   render (h) {
     const date = dayjs(this.$page.frontmatter.created_at).format('YYYY/MM/')
+
+    const year = dayjs(this.$page.frontmatter.created_at).year()
+
+    let imageCDN = year < 2020 ? this.$themeConfig.imageOldCDN : this.$themeConfig.imageNewCDN
+
     const src = this.filepath
-      ? `${this.$themeConfig.imageCDN}${this.filepath}`
-      : `${this.$themeConfig.imageCDN}${date}${this.filename}`
+      ? `${imageCDN}${this.filepath}`
+      : `${imageCDN}${date}${this.filename}`
     return h('p',
       {},
       [

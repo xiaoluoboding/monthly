@@ -55,7 +55,8 @@ module.exports = {
         ]
       }
     ],
-    imageCDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub@latest/images/'
+    imageOldCDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub-old@latest/images/',
+    imageNewCDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub@latest/images/'
   },
   markdown: {
     lineNumbers: true
