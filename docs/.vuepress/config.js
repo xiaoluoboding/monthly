@@ -22,7 +22,7 @@ module.exports = {
         text: '2019', link: '/2019/',
       },
       {
-        text: '2020', link: '/2020/2020-12',
+        text: '2020', link: '/2020/',
       },
       {
         text: '🗡️ Knives Out', link: '/knivesout/',

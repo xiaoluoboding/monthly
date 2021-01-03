@@ -2,7 +2,7 @@
 home: true
 heroImage: images/banner-x.png
 actionText: 开始探索 →
-actionLink: /2020/2020-12
+actionLink: /2020/
 features:
 - title: 星推
   details: 值得 Star 的 GitHub 仓库
