@@ -25,6 +25,9 @@ module.exports = {
         text: '2020', link: '/2020/',
       },
       {
+        text: '2021', link: '/2021/',
+      },
+      {
         text: '🗡️ Knives Out', link: '/knivesout/',
       },
       {
@@ -41,9 +44,15 @@ module.exports = {
       {
         title: '2020 年度',
         path: '/2020/',
-        collapsable: false,
         sidebarDepth: 2,
         children: getSidebar(2020, 12)
+      },
+      {
+        title: '2021 年度',
+        path: '/2021/',
+        collapsable: false,
+        sidebarDepth: 2,
+        children: getSidebar(2021, 01)
       },
       {
         title: 'Knives Out',
@@ -56,7 +65,8 @@ module.exports = {
       }
     ],
     imageOldCDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub-old@latest/images/',
-    imageNewCDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub@latest/images/'
+    image2020CDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub@latest/images/',
+    image2021CDN: 'https://cdn.jsdelivr.net/gh/xiaoluoboding/image-hub-2021@latest/'
   },
   markdown: {
     lineNumbers: true
