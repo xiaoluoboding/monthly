@@ -25,7 +25,7 @@ module.exports = {
         text: '2020', link: '/2020/',
       },
       {
-        text: '2021', link: '/2021/2021-02',
+        text: '2021', link: '/2021/2021-03',
       },
       {
         text: '🗡️ Knives Out', link: '/knivesout/',
@@ -52,7 +52,7 @@ module.exports = {
         path: '/2021/',
         collapsable: false,
         sidebarDepth: 2,
-        children: getSidebar(2021, 02)
+        children: getSidebar(2021, 03)
       },
       {
         title: 'Knives Out',
