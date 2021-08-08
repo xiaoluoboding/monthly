@@ -27,11 +27,11 @@
   },
   "homepage": "https://github.com/xiaoluoboding/monthly#readme",
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.7.1",
-    "apify-client": "^0.6.0",
-    "vuepress": "^1.7.1"
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "apify-client": "0.6.0",
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "dayjs": "^1.9.6"
+    "dayjs": "^1.10.6"
   }
 }
