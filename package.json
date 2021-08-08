@@ -28,10 +28,10 @@
   "homepage": "https://github.com/xiaoluoboding/monthly#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
-    "apify-client": "0.6.0",
     "vuepress": "^1.8.2"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "dayjs": "^1.10.6"
   }
 }

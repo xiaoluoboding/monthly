@@ -76,11 +76,7 @@ module.exports = {
     [
       Bookmark,
       {
-        apify: {
-          userId: 'aBiK4hymWp4K2LiZc',
-          token: 'dhMoBHTwdc6J36aifJ77L9E7x',
-          actId: '8xlX2NQerxiadEAUl'
-        },
+        apiPrefix: 'https://metafy.vercel.app/api?url=',
         palette: {
           titleColor: '#3eaf7c'
         }

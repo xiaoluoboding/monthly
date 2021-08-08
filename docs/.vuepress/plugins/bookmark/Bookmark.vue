@@ -28,7 +28,8 @@
 </template>
 
 <script>
-import { PALETTE } from '@dynamic/constants'
+import { BOOKMARKS, PALETTE, API_PREFIX } from '@dynamic/constants'
+import axios from 'axios'
 
 export default {
   name: 'Bookmark',
@@ -51,7 +52,9 @@ export default {
     shadow: { type: String, default: 'always' }
   },
   data: vm => ({
-    palette: PALETTE
+    palette: PALETTE,
+    bookmarks: BOOKMARKS,
+    metaData: {}
   }),
   computed: {
     bookmarkClass () {
@@ -64,9 +67,12 @@ export default {
         'is-never-shadow': this.shadow === 'never'
       }
     },
-    metaData: vm => {
-      const idx = vm.$bookmarks.findIndex(item => item.alias === vm.alias)
-      return idx !== -1 ? vm.$bookmarks[idx] : {}
+    bookmarkUrl () {
+      if (!!this.bookmarks) {
+        return this.bookmarks.find(item => item.alias === this.alias).url
+      } else {
+        return ''
+      }
     },
     dynamicStyle () {
       return {
@@ -78,6 +84,15 @@ export default {
     },
     titleColor () {
       return (this.palette.titleColor && this.palette.titleColor) || 'currentColor'
+    }
+  },
+  mounted () {
+    this.init()
+  },
+  methods: {
+    async init () {
+      const metaData = await axios.get(`${API_PREFIX}${this.bookmarkUrl}`)
+      this.metaData = metaData.data
     }
   }
 }
