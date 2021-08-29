@@ -35,7 +35,7 @@
 - PDF Expert
 - 番茄土豆
 - Alfred
-- Itsycal
+- [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny menu bar calendar.
 
 ## 专注写作
 
