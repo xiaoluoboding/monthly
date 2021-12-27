@@ -17,25 +17,28 @@ module.exports = {
   description: '聚焦前端，记录过去一个月探索发现的值得推荐的前端技术栈、文章以及应用，每月28日更新',
   base: '/monthly/',
   themeConfig: {
-    nav: [
-      {
-        text: '2019', link: '/2019/',
+    nav: [{
+        text: '2019',
+        link: '/2019/',
       },
       {
-        text: '2020', link: '/2020/',
+        text: '2020',
+        link: '/2020/',
       },
       {
-        text: '2021', link: '/2021/2021-11',
+        text: '2021',
+        link: '/2021/2021-12',
       },
       {
-        text: '🗡️ Knives Out', link: '/knivesout/',
+        text: '🗡️ Knives Out',
+        link: '/knivesout/',
       },
       {
-        text: 'GitHub', link: 'https://github.com/xiaoluoboding/monthly'
+        text: 'GitHub',
+        link: 'https://github.com/xiaoluoboding/monthly'
       }
     ],
-    sidebar: [
-      {
+    sidebar: [{
         title: '2019 年度',
         path: '/2019/',
         sidebarDepth: 2,
@@ -52,7 +55,7 @@ module.exports = {
         path: '/2021/',
         collapsable: false,
         sidebarDepth: 2,
-        children: getSidebar(2021, 11)
+        children: getSidebar(2021, 12)
       },
       {
         title: 'Knives Out',
