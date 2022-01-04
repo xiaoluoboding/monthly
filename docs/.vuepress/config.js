@@ -30,10 +30,6 @@ module.exports = {
         link: '/2021/2021-12',
       },
       {
-        text: '2022',
-        link: '/2022/',
-      },
-      {
         text: '🗡️ Knives Out',
         link: '/knivesout/',
       },
@@ -59,13 +55,6 @@ module.exports = {
         path: '/2021/',
         sidebarDepth: 2,
         children: getSidebar(2021, 12)
-      },
-      {
-        title: '2022 年度',
-        path: '/2022/',
-        collapsable: false,
-        sidebarDepth: 2,
-        children: getSidebar(2022, 01)
       },
       {
         title: 'Knives Out',
