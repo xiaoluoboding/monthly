@@ -19,7 +19,8 @@ export default {
 
     const cdnMap = {
       2020: this.$themeConfig['image2020CDN'],
-      2021: this.$themeConfig['image2021CDN']
+      2021: this.$themeConfig['image2021CDN'],
+      2022: this.$themeConfig['image2022CDN']
     }
 
     let imageCDN = year < 2020 ? this.$themeConfig.imageOldCDN : cdnMap[year]
