@@ -64,7 +64,7 @@ module.exports = {
         title: '2022 年度',
         path: '/2022/',
         sidebarDepth: 2,
-        children: getSidebar(2022, 02)
+        children: getSidebar(2022, 03)
       },
       {
         title: 'Knives Out',
