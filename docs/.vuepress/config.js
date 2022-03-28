@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         text: '2022',
-        link: '/2022/2022-02',
+        link: '/2022/2022-03',
       },
       {
         text: '🗡️ Knives Out',
