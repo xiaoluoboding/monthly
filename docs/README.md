@@ -2,7 +2,7 @@
 home: true
 heroImage: images/banner-x.png
 actionText: 开始探索 →
-actionLink: /2022/2022-04
+actionLink: /2022/2022-05
 features:
 - title: 🌟 星推
   details: 值得 Star 的 GitHub 仓库
