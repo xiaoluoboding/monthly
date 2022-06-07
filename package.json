@@ -31,7 +31,7 @@
     "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dayjs": "^1.10.6"
   }
 }
